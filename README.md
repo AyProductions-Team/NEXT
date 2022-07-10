@@ -1,2 +1,2 @@
 # NEXT
-IDE for making App Inventor extension
+Extension IDE for App Inventor
