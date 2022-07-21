@@ -1,0 +1,37 @@
+[0720/180811.472:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0720/180824.847:INFO:render_frame_host_impl.cc(11505)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://www.github.om/search?q=ucrop, status = 4, exit_code = 258
+[0720/180849.710:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/180849.782:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0720/180903.781:INFO:CONSOLE(0)] "Refused to connect to 'https://codeload.github.com/Yalantis/uCrop/zip/refs/tags/2.2.8-native' because it violates the following Content Security Policy directive: "connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com".
+", source: https://github.com/Yalantis/uCrop/releases/tag/2.2.8-native (0)
+[0720/180903.802:INFO:CONSOLE(3)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-d7a4b6c3d779.js (3)
+[0720/180906.926:INFO:CONSOLE(0)] "Refused to connect to 'https://codeload.github.com/Yalantis/uCrop/zip/refs/tags/2.2.8-native' because it violates the following Content Security Policy directive: "connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com".
+", source: https://github.com/Yalantis/uCrop/releases/tag/2.2.8-native (0)
+[0720/180906.932:INFO:CONSOLE(3)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-d7a4b6c3d779.js (3)
+[0720/181040.053:ERROR:gpu_init.cc(486)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0720/181159.930:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/181237.665:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/181237.961:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/181248.023:INFO:CONSOLE(17)] "Refused to load the image 'https://github.githubassets.com/images/icons/emoji/unicode/1f98d.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+", source: https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-d7a4b6c3d779.js (17)
+[0720/181248.025:INFO:CONSOLE(17)] "Refused to load the image 'https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+", source: https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-d7a4b6c3d779.js (17)
+[0720/181300.548:INFO:CONSOLE(1)] "Uncaught Error: AnalyticsClient octolytics-url meta tag not found", source: https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_hotkey_dist_index-9f48bd-d2bd677ffadf.js (1)
+[0720/181301.282:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/181331.165:INFO:CONSOLE(1)] "Uncaught Error: AnalyticsClient octolytics-url meta tag not found", source: https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_hotkey_dist_index-9f48bd-d2bd677ffadf.js (1)
+[0720/181409.036:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/181431.268:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0720/181648.286:INFO:CONSOLE(2)] "Babylon.js v4.2.0 - WebGL2 - Parallel shader compilation", source: https://skyline.github.com/_nuxt/4196012.js (2)
+[0720/181648.295:INFO:CONSOLE(1)] "%c
+         @AyProductions' 2021 GitHub Skyline         
+
+  ✦         ✦✦   ✧                 ✧  ✦           ▁  
+  ✦      ✧         ✦      ✧   ✦           ☽  ✦✧   █  
+     ▇                             ✧              █  
+▆▄   █     ✧               ✧                   ✦  █  
+██   █                   ✦     ✦                ✧ █  
+██▁▁▁█▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▅▁
+
+    https://skyline.github.com/AyProductions/2021    
+
+ font-family: monospace", source: https://skyline.github.com/_nuxt/7417525.js (1)
